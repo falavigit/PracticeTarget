@@ -7,16 +7,18 @@ We will practise creating issues on github! This is the same function shown with
 
 For example, your issue might read: `change apple0 to banana0`.
 
-: apple1
+Jay: apple1
 
-: apple2
+Simon: apple2
 
-: apple3
+Wendy: apple3
 
-: apple4
+Meaghan: apple4
 
-: apple5
+Fatemeh: apple5
 
-: apple6
+Sophie: apple6
 
-: apple7
+Victoria: apple7
+
+
